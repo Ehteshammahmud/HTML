@@ -1,5 +1,8 @@
-function greet (name) {
-    console.log ('Hello'+" "  + name)
+function minsev(num) {
+   return num - 7
 }
 
-greet ('Mahmud');
+console.log(minsev(15));
+
+
+
